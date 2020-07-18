@@ -1,6 +1,8 @@
 #Coded by DulLah (fb.me/dulahz)
 
-import os, re, requests, concurrent.futures
+#Arfat_Khan
+import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
+
 from random import randint
 
 def brute(user, passs):
