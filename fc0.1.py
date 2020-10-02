@@ -102,4 +102,4 @@ def pilih():
   else:
     exit('  Goblokk')
  
-pilih() if __name__ == '__main__' else exit('Maaf ada yang error kaka , silahkan coba lagi yahh.')
+if __name__ == '__main__':
